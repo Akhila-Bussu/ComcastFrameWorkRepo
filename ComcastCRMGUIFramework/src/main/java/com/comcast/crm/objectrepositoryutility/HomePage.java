@@ -24,6 +24,9 @@ public class HomePage {
 	@FindBy(linkText="Products")
 	private WebElement productlink;
 	
+	@FindBy(linkText="Instagram")
+	private WebElement istalink;
+	
 	public WebElement getProductlink() {
 		return productlink;
 	}
