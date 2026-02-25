@@ -1,0 +1,5 @@
+URL:https://demowebshop.tricentis.com/
+Browser:chrome
+username:abc@test.com
+password:demowebshop
+timeout:15
